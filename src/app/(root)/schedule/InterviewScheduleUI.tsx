@@ -26,6 +26,7 @@ import { Loader2Icon, XIcon } from "lucide-react";
 import { Calendar } from "@/components/ui/calendar";
 import { TIME_SLOTS } from "@/constants";
 import MeetingCard from "@/components/MeetingCard";
+//check out
 
 function InterviewScheduleUI() {
   const client = useStreamVideoClient();
